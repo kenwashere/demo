@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class SecretFormula here.
+ * Demo project for github
  *
- * @author (your name)
- * @version (a version number or a date)
+ * Ken Tran
+ * 3/13/19
  */
 public class SecretFormula
 {
